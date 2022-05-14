@@ -32,7 +32,7 @@ void setup()
   Serial.println("Ultrasonic Sensor HC-SR04 Test"); // print some text in Serial Monitor
   Serial.println("with Arduino UNO R3");
   //inputs
-  pinMode(photoresistor, INPUT);
+  pinMode(photoresistor, INPUT); 
   pinMode(tempsensor,INPUT);
 }
 
