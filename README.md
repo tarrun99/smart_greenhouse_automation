@@ -1,5 +1,4 @@
 # Smart_greenhouse_automation
-Automated Green House using various sensors and micro controllers ( arduino ) 
 
 Automated Green House using various sensors and micro controllers ( Arduino )
 
