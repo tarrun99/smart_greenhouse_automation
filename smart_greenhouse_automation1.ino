@@ -112,6 +112,6 @@ digitalWrite(led,LOW);
 // lcd.setCursor(0,1);
  //lcd.print("Distance:");
  //lcd.print(distance/100);
- //lcd.print("m");
+ lcd.print("m");
  delay(1000);
 }
