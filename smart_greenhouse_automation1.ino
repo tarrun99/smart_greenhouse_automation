@@ -5,12 +5,15 @@ LiquidCrystal lcd(7,6,5,4,3,2);
 #define trigger 12
 #define echo 13
 
+//sensors 
+
 int tempsensor= A0;      
 int photoresistor= A1;   
 int sensorValue = 0;
 char degree = 176;
 long duration;
 int distance; 
+
 
 //acuators
 int led =8;        
